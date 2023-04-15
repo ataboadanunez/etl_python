@@ -1,3 +1,4 @@
 spotipy/__pycache__
 spotipy/.cache
 spotipy/settings.json
+spotipy/my_played_tracks.sqlite
